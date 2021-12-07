@@ -1,0 +1,16 @@
+C:\Users\bellt\Desktop\repos9\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\net5.0\SelectionStatementsExercise.csproj.AssemblyReference.cache
+C:\Users\bellt\Desktop\repos9\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\net5.0\SelectionStatementsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bellt\Desktop\repos9\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\net5.0\SelectionStatementsExercise.AssemblyInfoInputs.cache
+C:\Users\bellt\Desktop\repos9\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\net5.0\SelectionStatementsExercise.AssemblyInfo.cs
+C:\Users\bellt\Desktop\repos9\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\net5.0\SelectionStatementsExercise.csproj.CoreCompileInputs.cache
+C:\Users\bellt\Desktop\repos9\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\net5.0\SelectionStatementsExercise.exe
+C:\Users\bellt\Desktop\repos9\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\net5.0\SelectionStatementsExercise.deps.json
+C:\Users\bellt\Desktop\repos9\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\net5.0\SelectionStatementsExercise.runtimeconfig.json
+C:\Users\bellt\Desktop\repos9\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\net5.0\SelectionStatementsExercise.runtimeconfig.dev.json
+C:\Users\bellt\Desktop\repos9\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\net5.0\SelectionStatementsExercise.dll
+C:\Users\bellt\Desktop\repos9\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\net5.0\ref\SelectionStatementsExercise.dll
+C:\Users\bellt\Desktop\repos9\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\net5.0\SelectionStatementsExercise.pdb
+C:\Users\bellt\Desktop\repos9\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\net5.0\SelectionStatementsExercise.dll
+C:\Users\bellt\Desktop\repos9\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\net5.0\ref\SelectionStatementsExercise.dll
+C:\Users\bellt\Desktop\repos9\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\net5.0\SelectionStatementsExercise.pdb
+C:\Users\bellt\Desktop\repos9\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\net5.0\SelectionStatementsExercise.genruntimeconfig.cache
